@@ -24,3 +24,7 @@ You can contribute to the documentation [here](https://github.com/Octonet45/docs
   - [Installing with pkg installer](installation/macos.md)
 
 - [Building from source](installation/source.md) *TODO*
+
+## Configuration
+- Connecting
+  - [Peering](configuration/peering.md)
