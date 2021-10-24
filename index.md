@@ -9,7 +9,7 @@ You can contribute to the documentation [here](https://github.com/Octonet45/docs
 
 ## About Yggdrasil
 - [FAQ](faq.md)
-- [Achievements](achievements.md) *TODO*
+- [Achievements](achievements.md)
 - [Security](security.md) *TODO*
 
 ## Installation
