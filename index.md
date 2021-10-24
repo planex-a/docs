@@ -18,6 +18,9 @@ You can contribute to the documentation [here](https://github.com/Octonet45/docs
   - [Gentoo](installation/gentoo.md) *TODO*
   - [Red Hat and other like sites](installation/red_hat.md) *TODO*
   - [OpenWRT](installation/openwrt.md) *TODO*
-  - [Building from source](installation/source.md) *TODO*
 - Windows
   - [Installing with MSI installer](installation/windows.md)
+- MacOS
+  - [Installing with pkg installer](installation/macos.md) *TODO*
+
+- [Building from source](installation/source.md) *TODO*
