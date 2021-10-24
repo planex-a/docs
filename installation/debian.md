@@ -9,7 +9,9 @@ This is how to install Yggdrasil manualy.
 
 Step 1: Installing Packages
 
-```sudo apt-get install dirmngr```
+```
+sudo apt-get install dirmngr
+```
 
 ```
 gpg --fetch-keys https://neilalexander.s3.dualstack.eu-west-2.amazonaws.com/deb/key.txt
@@ -25,5 +27,5 @@ Step 2: Configuration and Installing\
 
 The configuration file will be made into `/etc/yggdrasil.conf/`.
 
-To start Yggdrasil you will need to run `sudo systemctl enable yggdrasil` and `sudo systemctl start yggdrasil`.
+To start Yggdrasil you will need to run `sudo systemctl enable yggdrasil` and `sudo systemctl start yggdrasil`.\
 If you want to reload the configuration file run `sudo systemctl reload yggdrasil` or `sudo systemctl restart yggdrasil`.
