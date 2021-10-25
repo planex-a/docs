@@ -32,4 +32,5 @@ You can contribute to the documentation [here](https://github.com/Octonet45/docs
 
 ## Random
 - [DNS](random/dns.md)
-- [Interesting Sites](random/sites.md) *TODO*
+- [Interesting Sites](random/sites.md)
+- [Other Links](random/links.md)
