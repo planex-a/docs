@@ -29,3 +29,7 @@ You can contribute to the documentation [here](https://github.com/Octonet45/docs
 ## Configuration
 - Connecting
   - [Peering](configuration/peering.md)
+
+## Random
+- [DNS](random/dns.md) *TODO*
+- [Interesting Sites](random/sites.md) *TODO*
