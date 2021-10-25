@@ -11,6 +11,7 @@ You can contribute to the documentation [here](https://github.com/Octonet45/docs
 - [FAQ](faq.md)
 - [Achievements](achievements.md)
 - [Security](security.md) *TODO*
+- [Abbreviations](abbreviations.md)
 
 ## Installation
 - Linux
