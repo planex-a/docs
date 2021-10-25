@@ -1,4 +1,4 @@
-# Yggdrasil
+# Octonet
 
 We are a community of programmers and network enthusiasts.
 - Many websites
