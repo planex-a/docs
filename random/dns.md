@@ -39,3 +39,10 @@ Pros:
 
 Cons:
 - Domains look bad
+
+## TLD Ideas
+Here are some ideas for a TLD.
+1. ygg
+2. mesh
+3. octo
+4. network
