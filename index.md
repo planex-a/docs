@@ -31,5 +31,5 @@ You can contribute to the documentation [here](https://github.com/Octonet45/docs
   - [Peering](configuration/peering.md)
 
 ## Random
-- [DNS](random/dns.md) *TODO*
+- [DNS](random/dns.md)
 - [Interesting Sites](random/sites.md) *TODO*
