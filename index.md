@@ -7,7 +7,7 @@ We are a community of programmers and network enthusiasts.
 
 You can contribute to the documentation [here](https://github.com/Octonet45/docs).
 
-## About Yggdrasil
+## About Octonet/Yggdrasil
 - [FAQ](faq.md)
 - [Achievements](achievements.md)
 - [Security](security.md) *TODO*
