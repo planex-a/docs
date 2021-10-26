@@ -22,7 +22,7 @@ You can contribute to the documentation [here](https://github.com/Octonet45/docs
 - Windows
   - [Installing with MSI installer](installation/windows.md)
 - MacOS
-  - [Installing with pkg installer](installation/macos.md)
+  - [Installing with PKG installer](installation/macos.md)
 
 - [Building from source](installation/source.md) *TODO*
 
