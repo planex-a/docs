@@ -18,6 +18,7 @@ You can contribute to the documentation [here](https://github.com/Octonet45/docs
   - [Debian](installation/debian.md)
   - [Gentoo](installation/gentoo.md) *TODO*
   - [Red Hat and other Red Hat like distros](installation/red_hat.md) *TODO*
+  - [Arch Linux](installation/arch.md)
   - [OpenWRT](installation/openwrt.md) *TODO*
 - Windows
   - [Installing with MSI installer](installation/windows.md)
